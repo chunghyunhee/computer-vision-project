@@ -1,6 +1,6 @@
 # Computer vision final project
 ## How to Run
-### (1) AdaBA : bias measurement
+### (1) Bias measurement
 - Here is the sample commands for running the AdaBA (ours)
 - If you want to see the scratch notebook code, refer this: [URL](https://github.com/socar-esther/Optimal_labeling_scheme/blob/main/notebook/scracth_AdaBA.ipynb)
 ```python
